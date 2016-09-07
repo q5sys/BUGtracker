@@ -1,5 +1,6 @@
 + General Template is below, however, if you wish to go all out and make your individual BUG's page a glorious display of markdown nirvana -- have at it.
 
+~~~~
 ## BUG NAME
 + Location = City, State, Country, etc
 + Website = [siteName](link)
@@ -11,8 +12,8 @@
 + Organizer(s) [Name/Handle](link of choice if any at all)
 
 + Member(s) = $Organizers, [Name/Handle](link of choice if any at all)
-
-
+~~~~
+	
 ##DO NOT LIST MEMBERS WITHOUT THEIR CONSENT
 + Personal Privacy will be respected
 + In fact, Members will only be added if the pull request comes from the individual themselves.  That way each person can choose if they wish to be a private member or a public member. 
