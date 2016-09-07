@@ -8,3 +8,6 @@ See [_template](https://github.com/q5sys/BUGtracker/blob/master/_template) for b
 + [CoBUG](https://github.com/q5sys/BUGtracker/blob/master/cobug.md)
 + [OCBUG](https://github.com/q5sys/BUGtracker/blob/master/ocbug.md)
 + [NYCBUG](https://github.com/q5sys/BUGtracker/blob/master/nycbug.md)
+
+
+Once we get more BUGs added, this will be organized this by country/region.
