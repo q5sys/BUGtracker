@@ -3,11 +3,11 @@ A compendium of BUGs (BSD User Groups)
 
 See [_template](https://github.com/q5sys/BUGtracker/blob/master/_template) for basic format
 
-+ [CharmBUG](https://github.com/q5sys/BUGtracker/blob/master/charmbug.md)
-+ [ChiBug](https://github.com/q5sys/BUGtracker/blob/master/chibug.md)
-+ [CoBUG](https://github.com/q5sys/BUGtracker/blob/master/cobug.md)
-+ [OCBUG](https://github.com/q5sys/BUGtracker/blob/master/ocbug.md)
-+ [NYCBUG](https://github.com/q5sys/BUGtracker/blob/master/nycbug.md)
++ [CharmBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/charmbug.md)
++ [ChiBug](https://github.com/q5sys/BUGtracker/blob/master/bugs/chibug.md)
++ [CoBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/cobug.md)
++ [OCBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/ocbug.md)
++ [NYCBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/nycbug.md)
 
 
 Once we get more BUGs added, this will be organized this by country/region.
