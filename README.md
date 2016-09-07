@@ -5,4 +5,4 @@ See [_template](https://github.com/q5sys/BUGtracker/blob/master/_template) for b
 
 + [CharmBUG](https://github.com/q5sys/BUGtracker/blob/master/charmbug.md)
 + [ChiBug](https://github.com/q5sys/BUGtracker/blob/master/chibug.md)
-+ 
++ [CoBUG](https://github.com/q5sys/BUGtracker/blob/master/cobug.md)
