@@ -1,7 +1,7 @@
 # BUGtracker
 A compendium of BUGs (BSD User Groups)
 
-See [_template](https://github.com/q5sys/BUGtracker/blob/master/_template) for basic format
+See [_template](https://github.com/q5sys/BUGtracker/blob/master/_template.md) for basic format
 
 + [CharmBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/charmbug.md)
 + [ChiBug](https://github.com/q5sys/BUGtracker/blob/master/bugs/chibug.md)
