@@ -5,25 +5,25 @@ See [_template](https://github.com/q5sys/BUGtracker/blob/master/_template.md) fo
 
 ***
 ### North America
-##### South West
+##### South West, USA
 + [TFUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/tfug.md)
 + [SDBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/sdbug.md)
 + [BUUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/buug.md)
 + [BAFUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/bafug.md)
 
-##### North West
+##### North West, USA
 + [SeaBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/seabug.md)
 + [PDXLinux](https://github.com/q5sys/BUGtracker/blob/master/bugs/pdxlinux.md)
 
-##### Midwest
+##### Midwest, USA
 + [CoBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/cobug.md)
 
-##### South East
+##### South East, USA
 + [Triangle BSD Users Group](https://github.com/q5sys/BUGtracker/blob/master/bugs/trainglebug.md)
 + [KnoxBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/knoxbug.md)
 + [OrlandoBSD](https://github.com/q5sys/BUGtracker/blob/master/bugs/orlandobsd.md)
 
-##### North East
+##### North East, USA
 + [CharmBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/charmbug.md)
 + [ChiBug](https://github.com/q5sys/BUGtracker/blob/master/bugs/chibug.md)
 + [NYCBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/nycbug.md)
