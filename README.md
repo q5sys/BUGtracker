@@ -30,29 +30,26 @@ See [_template](https://github.com/q5sys/BUGtracker/blob/master/_template.md) fo
 + 
 ### Canada
 + [OCBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/ocbug.md)
-***
+
 
 # Europe
 + [SBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/sbug.md)
 + [NOBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/nobug.md)
-***
+
 
 # Asia
 + [NewDelhiBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/newdelhibug.md)
-***
+
 
 # South America
 
-***
 
 # Africa
 
-***
 
 # Australia and Oceania
 
-***
 
 # Antarctica 
 <sub><sup>We can dream right?</sup></sub>
-***
+
