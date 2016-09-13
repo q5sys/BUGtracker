@@ -42,13 +42,17 @@ See [_template](https://github.com/q5sys/BUGtracker/blob/master/_template.md) fo
 ***
 
 # South America
+
 ***
 
 # Africa
+
 ***
 
 # Australia and Oceania
+
 ***
 
-# Antarctica <sub><sup>We can dream right?</sup></sub>
+# Antarctica 
+<sub><sup>We can dream right?</sup></sub>
 ***
