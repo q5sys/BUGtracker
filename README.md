@@ -36,6 +36,7 @@ See [_template](https://github.com/q5sys/BUGtracker/blob/master/_template.md) fo
 + [SBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/sbug.md)
 + [NOBUG](https://github.com/q5sys/BUGtracker/blob/master/bugs/nobug.md)
 + [FUG-FR](https://github.com/q5sys/BUGtracker/blob/master/bugs/fugfr.md)
++ [BSDStammtisch](https://github.com/q5sys/BUGtracker/blob/master/bugs/bsdstammtisch.md)
 
 ***
 ### Asia
