@@ -38,6 +38,7 @@ See [_template](https://github.com/q5sys/BUGtracker/blob/master/_template.md) fo
 + [FUG-FR](https://github.com/q5sys/BUGtracker/blob/master/bugs/fugfr.md)
 + [Tilda Center](https://github.com/q5sys/BUGtracker/blob/master/bugs/tilda-center.md)
 + [BSDStammtisch](https://github.com/q5sys/BUGtracker/blob/master/bugs/bsdstammtisch.md)
++ [Helbug](https://github.com/q5sys/BUGtracker/blob/master/bugs/helbug.md)
 
 ***
 ### Asia
